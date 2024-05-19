@@ -1,0 +1,13 @@
+body {
+  background: #111111;
+  color: #a0a0a0;
+  padding: 1rem;
+}
+
+.title-text {
+  font-size: 4rem;
+}
+
+.main-text {
+  font-size: 2rem;
+}
